@@ -7,7 +7,7 @@
 
 ## ⚙️เทคโนโลยีที่ใช้
 - Frontend: React
-- Backend: RestAPI with Golang
+- Backend: RESTAPI with Golang
 - Database: PostgreSQL
 - Tool: Docker, Postman
 
@@ -18,7 +18,7 @@
 | สมัญญา กี่สุข | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 | สุพิพัฒน์ แสงสอน | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 | อัญชลี สกุลฑิฆัมพร | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend รวมถึงออกแบบ UI/UX |
-| อภิญญา แซ่อึ้ง | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
+| จารุพร ศิลารัตน์ | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 
 
 
