@@ -17,7 +17,7 @@
 | อารดา แว่นวงษ์ | Backend Developer | พัฒนาและออกแบบฝั่ง Backend รวมถึงจัดการฐานข้อมูล |
 | สมัญญา กี่สุข | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 | สุพิพัฒน์ แสงสอน | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
-| อัญชลี สกุลฑิฆัมพร | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend รวมถึงออกแบบ UI/UX |
+| อัญชลี สกุลทิฆัมพร | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend รวมถึงออกแบบ UI/UX |
 | จารุพร ศิลารัตน์ | Frontend Developer | พัฒนาและออกแบบฝั่ง Frontend |
 
 
