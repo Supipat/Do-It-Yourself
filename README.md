@@ -9,7 +9,7 @@
 - Frontend: React
 - Backend: RESTAPI with Golang
 - Database: PostgreSQL
-- Tool: Docker, Postman
+- Tool: Visual Studio Code, Docker, Postman
 
 ## 🫂ทีมพัฒนา
 | ชื่อ | บทบาท | รายละเอียด |
