@@ -6,10 +6,10 @@
 พัฒนาโดยทีมงานทั้งหมด 5 คน ซึ่งมีหน้าที่ดังนี้:
 
 ## ⚙️เทคโนโลยีที่ใช้
-- Frontend: React
-- Backend: RESTAPI with Golang
-- Database: PostgreSQL
-- Tool: Visual Studio Code, Docker, Postman
+- **Frontend:** React
+- **Backend:** RESTAPI with Golang
+- **Database:** PostgreSQL
+- **Tool:** Visual Studio Code, Docker, Postman
 
 ## 🫂ทีมพัฒนา
 | ชื่อ | บทบาท | รายละเอียด |
